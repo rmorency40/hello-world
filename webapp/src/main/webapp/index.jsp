@@ -4,3 +4,4 @@
 <h2> Deploying on a vm </h2>
 <h2> Deploying on a VM1 </h2>
 <h2> Deploying on a container </h2>
+<h2> Deploying on Container using ansible </h2>
